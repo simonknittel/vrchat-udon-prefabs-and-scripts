@@ -10,10 +10,14 @@ You can find a demo Unity project in the [demo-world](./demo-world/) directory.
 
 ### Notifications
 
+[unitypackage](./prefabs/notifications.unitypackage) - [Source Code](./demo-world/Assets/Notifications/)
+
 This prefab allows you to show the player some kind of notification. This could be used for showing the player a notification when they complete a quest or an achievement.
 
 ![Video showing a notification](./readme-assets/notifications.gif)
 
 ### Respawner
+
+[unitypackage](./prefabs/respawner.unitypackage) - [Source Code](./demo-world/Assets/Respawner/)
 
 This prefab simply contains a collider and a respawn point which you can place freely throughout your world. This could be used to create a custom respawn height and respawn point for when the player falls of a platform without having to rely on the world's default respawn height.
